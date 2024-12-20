@@ -14,6 +14,7 @@ ER Diagram
 ![Relational Data Model](https://github.com/user-attachments/assets/6a32ada3-e538-455e-8425-595f90ad23ff)
 
 Output (While running a query) - 
+
 ![Inserting station value](https://github.com/user-attachments/assets/11243796-3630-49a1-9ffb-97677b808e33)
 
 Ouput of a trigger -
