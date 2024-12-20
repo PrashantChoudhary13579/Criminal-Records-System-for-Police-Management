@@ -8,8 +8,10 @@ I created a user-friendly system using Oracle APEX to make managing criminal rec
 Detailling - Inside the powerpoint (criminal (2).pptx)
 
 Images - 
-
+ER Diagram
 ![ER Digram ](https://github.com/user-attachments/assets/152c987b-bcf7-478e-9a8d-801554e25efe)
 ![Relational Data Model](https://github.com/user-attachments/assets/6a32ada3-e538-455e-8425-595f90ad23ff)
+Output (While running a query) - 
 ![Inserting station value](https://github.com/user-attachments/assets/11243796-3630-49a1-9ffb-97677b808e33)
+Ouput of a trigger -
 ![Trigger ](https://github.com/user-attachments/assets/2e2e51cb-eab8-4109-a7bd-79ca6ccfa7cb)
